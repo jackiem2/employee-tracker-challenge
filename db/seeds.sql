@@ -6,7 +6,7 @@ VALUES ("engineering"),
 
     SELECT * FROM DEPARTMENT;
 
-INSERT INTO roles (tilte, salary, department_id)
+INSERT INTO roles (title, salary, department_id)
 VALUES ("software engineer", 120000, 1),
     ("lead engineer", 150000, 1),
     ("account manager", 160000, 2),
