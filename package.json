@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/jackiem2/employee-tracker-challenge#readme",
   "dependencies": {
-    "inquirer": "^8.2.1"
+    "inquirer": "^8.2.1",
+    "mysql2": "^2.3.3"
   }
 }
